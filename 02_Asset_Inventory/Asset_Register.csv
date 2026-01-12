@@ -1,6 +1,6 @@
-Asset Name,Asset Type,Owner,Data Sensitivity,Business Criticality,Description
-Customer Database,Data Store,IT Operations,High,Critical,Stores customer personal data and business analytics
-Web Application,Application,DevOps,Medium,High,Core SaaS platform for analytics dashboards
-Employee Laptops,Endpoint,HR,Medium,Medium,Corporate laptops used by staff
-AWS Infrastructure,Infrastructure,IT Operations,Medium,Critical,Cloud hosting environment and databases
-Authentication System,Application,IT Operations,High,Critical,User identity and access management system
+Asset Name,Asset Type,Owner,Data Sensitivity,Business Criticality,Primary STRIDE Threats,Likelihood,Impact
+Customer Database,Database,IT Team,High,Critical,Spoofing; Tampering; Information Disclosure; Denial of Service; Elevation of Privilege,Medium-Critical,High-Critical
+Web Application,Software,Dev Team,High,Critical,Spoofing; Tampering; Information Disclosure; Denial of Service; Elevation of Privilege,Medium-High,High-Critical
+Employee Laptops,Hardware,All Employees,Medium,High,Spoofing; Tampering; Information Disclosure; Denial of Service; Elevation of Privilege,Medium,High-Critical
+AWS Infrastructure,Cloud,Cloud Admin,High,Critical,Spoofing; Tampering; Information Disclosure; Denial of Service; Elevation of Privilege,Medium,High-Critical
+Authentication System,Software,IT Team,High,Critical,Spoofing; Tampering; Information Disclosure; Denial of Service; Elevation of Privilege,Medium,High-Critical
