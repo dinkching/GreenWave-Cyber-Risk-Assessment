@@ -1,0 +1,6 @@
+Risk ID,Threat (STRIDE),Threat Description,Likelihood,Impact,Risk Rating,Risk Level,Existing Controls,Recommended Mitigation,Priority
+R10,Web Application,Elevation of Privilege Role misconfiguration,2,3,6,High,RBAC,Implement principle of least privilege,Period
+R20,Data Breach,Data exfiltration from unsecured endpoints,3,4,12,Critical,EDR/DLP,Implement zero-trust architecture,Critical
+R30,DDoS Attack,Network unavailability due to external attack,2,3,6,High,WAF,Enhance DDoS mitigation,High
+R40,Malware Infection,Systemwide malware compromise,2,3,6,High,Anti-malware,Update malware signatures,High
+R50,Insider Threat,Data theft by employees,1,3,3,Medium,User monitoring,Behavioral analytics,Medium
