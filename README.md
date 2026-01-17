@@ -37,5 +37,16 @@ The objective was to identify critical assets, analyse threats, assess cybersecu
 - STRIDE Threat Modelling
 - Risk Matrix & Heat Maps
 
+## Deliverables
+- Asset Register and classification
+- STRIDE-based threat model and data flow diagram
+- Quantified cybersecurity risk register and risk heat map
+- ISO/IEC 27001 control mapping with mitigation prioritisation
+- Executive-level cybersecurity risk summary
+
+## Project Type
+Academic + Industry-aligned cybersecurity risk assessment  
+(Designed to mirror real-world consulting deliverables)
+
 ---
 📌 This project was developed as part of my MSc in Cybersecurity Risk Management and reflects practical, job-ready cybersecurity analysis aligned with industry standards.
